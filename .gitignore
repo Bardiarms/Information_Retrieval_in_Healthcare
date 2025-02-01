@@ -10,3 +10,10 @@ __pycache__
 
 .vscode/
 .idea/
+
+venv/
+.env/
+env/
+*.venv/
+
+.DS_Store
