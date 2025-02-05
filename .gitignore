@@ -17,3 +17,5 @@ env/
 *.venv/
 
 .DS_Store
+
+MeQSum_ACL2019_BenAbacha_Demner-Fushman.csv
