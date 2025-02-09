@@ -80,9 +80,9 @@ To evaluate the quality of the generated summaries, we applied the following met
 ---
 
 ## Results and Insights
-- **Paraphrase Diversity:** RTT using multiple pivot languages successfully generated diverse paraphrases, enhancing the dataset's richness.
-- **Summarization Performance:** Summaries generated from paraphrased questions demonstrated higher semantic quality.
-- **Evaluation Scores:** Summarization based on Google Translate paraphrases yielded higher ROUGE scores, indicating better alignment with reference summaries.
+- **Paraphrase Diversity:** RTT using multiple pivot languages successfully generated diverse paraphrases, enhancing the dataset's diversity.
+
+- **Evaluation Scores:** Summarization based on Google Translate paraphrases yielded higher ROUGE scores, which shows better alignment with reference summaries.
 
 ---
 
