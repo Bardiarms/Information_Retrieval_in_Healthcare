@@ -3,7 +3,7 @@
 ## Introduction
 The goal in this project is to develop an effective approach for summarizing consumer health questions (CHQ). CHQs are often lengthy and complex, containing multiple layers of information, which makes automatic summarization critical for enhancing information retrieval in healthcare systems.
 
-This project leverages advanced machine translation and NLP techniques to generate diverse paraphrases of the original questions and uses these paraphrases to improve question summarization. Additionally, evaluation metrics such as ROUGE and BLEU are applied to assess the quality of the generated summaries.
+This project uses advanced machine translation and NLP techniques to generate diverse paraphrases of the original questions and uses these paraphrases to improve question summarization. Additionally, evaluation metrics such as ROUGE and BLEU are applied to assess the quality of the generated summaries.
 
 ---
 
@@ -90,6 +90,7 @@ To evaluate the quality of the generated summaries, we applied the following met
 1. Handling noisy or invalid paraphrases during RTT can be considered one of the challenges that should be dealt with. 
 2. Ensuring meaningful summary content despite language translation artifacts is another one.
 3. Using several libraries together and handling outputs to be compatible and usable in every step was also frustrating.
+4. Translation process on dataset was time-consuming slow and needed several hours to be done, specially when using MarianMT model. 
 
 ---
 
