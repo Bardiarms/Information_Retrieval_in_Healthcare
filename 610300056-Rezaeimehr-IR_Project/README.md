@@ -139,7 +139,3 @@ This project shows the importance of using paraphrased data for improving CHQ su
    # Summarize raw and paraphrased CHQs
    # Evaluate using ROUGE and BLEU metrics
    ```
-
-### Contact
-
-If you have any qustions about the repository, feel free to reach out at [bardia.rms@gmail.com](mailto:bardia.rms@gmail.com).
